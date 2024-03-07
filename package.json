@@ -1,0 +1,14 @@
+{
+  "name": "holamundohttp",
+  "version": "1.0.0",
+  "description": "Hola Mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1111002"
+  ],
+  "author": "Aylin Velázquez",
+  "license": "ISC"
+}
